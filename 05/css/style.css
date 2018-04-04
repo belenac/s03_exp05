@@ -1,0 +1,42 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+body {
+	font-size: 14px;
+	font-family: sans-serif;
+}
+h1 {
+	font-size: 2.5rem;
+	font-weight: 100;
+}
+.container {
+	max-width: 860px;
+	width: 100%;
+	margin: 0 auto;
+}
+.grid-33 {
+	width: 33.33333%;
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+header {
+	text-align: center;
+	color: #fff;
+	background-color: mediumseagreen;
+	padding: 4em;
+}
+.img-100 {
+	width: 100%;
+}
+.clear {
+	clear: both;
+}
+.cont-home {
+	padding: 3em 0;
+}
+.cont-home .info {
+	padding: 10px 5px;
+}
